@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\bin\Debug\Bilgisayar Uygulaması.exe.config
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\bin\Debug\Bilgisayar Uygulaması.exe
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\bin\Debug\Bilgisayar Uygulaması.pdb
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\obj\Debug\Bilgisayar Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\obj\Debug\Bilgisayar Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\obj\Debug\Bilgisayar Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\obj\Debug\Bilgisayar Uygulaması.exe
+C:\Users\Administrator\Desktop\ÖDEV\Bilgisayar Uygulaması\obj\Debug\Bilgisayar Uygulaması.pdb
